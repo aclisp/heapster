@@ -1,7 +1,7 @@
 all: build
 
-TAG = v0.19.0
-PREFIX = gcr.io/google_containers
+TAG = v0.19.1
+PREFIX = sigmas
 FLAGS =
 
 SUPPORTED_KUBE_VERSIONS = "1.0.6"
